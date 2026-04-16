@@ -1,0 +1,12 @@
+.Cookie_Button{
+    border-radius: 50%;
+    outline: none !important;
+    border: none !important;
+    padding: 0;
+}
+.Cookie_Image{
+    width: 200px;
+    height: 200px;
+    border: none;
+    border-radius: 50%;
+}

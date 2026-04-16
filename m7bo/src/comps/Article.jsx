@@ -1,4 +1,4 @@
-import './App.css'
+import './Article.css'
 export function Article() {
     return (
         <>
